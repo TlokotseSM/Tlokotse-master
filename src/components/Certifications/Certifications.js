@@ -9,77 +9,77 @@ function Certifications() {
     {
       title: "PHP From Scratch Beginner To Advanced",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/PHP_From_Scratch.png"
+      pdfPath: "/certificates/PHP_From_Scratch.pdf"
     },
     {
       title: "The Complete Java Certification Course",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Complete_Java_Certification.png"
+      pdfPath: "/certificates/Complete_Java_Certification.pdf"
     },
     {
       title: "One Week Python",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/One_Week_Python.jpg"
+      pdfPath: "/certificates/One_Week_Python.pdf"
     },
     {
       title: "The HTML & CSS Bootcamp 2025 Edition",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/HTML_CSS_Bootcamp_2025.jpg"
+      pdfPath: "/certificates/HTML_CSS_Bootcamp_2025.pdf"
     },
     {
       title: "SDLC - Software Development Life Cycle",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/SDLC_Certificate.png"
+      pdfPath: "/certificates/SDLC_Certificate.pdf"
     },
     {
       title: "The Complete 2025 Software Testing Bootcamp",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Software_Testing_Bootcamp_2025.jpg"
+      pdfPath: "/certificates/Software_Testing_Bootcamp_2025.pdf"
     },
     {
       title: "Agile Retrospective+Continuous Improvement+Kaizen with Scrum",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Agile_Retrospective_Kaizen.jpg"
+      pdfPath: "/certificates/Agile_Retrospective_Kaizen.pdf"
     },
     {
       title: "Business Analysis - Developing Requirements",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Business_Analysis_Requirements.png"
+      pdfPath: "/certificates/Business_Analysis_Requirements.pdf"
     },
     {
       title: "ChatGPT AI Ethics Ethical Intelligence for 2025",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/ChatGPT_AI_Ethics.png"
+      pdfPath: "/certificates/ChatGPT_AI_Ethics.pdf"
     },
     {
       title: "Code Reviews for Secure, Clean, and Scalable Code",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Code_Reviews_Secure_Clean.jpg"
+      pdfPath: "/certificates/Code_Reviews_Secure_Clean.pdf"
     },
     {
       title: "Continuous Improvement - Operational Excellence",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Continuous_Improvement_Excellence.png"
+      pdfPath: "/certificates/Continuous_Improvement_Excellence.pdf"
     },
     {
       title: "Fundamentals of Software Design and Architecture Course",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Software_Design_Architecture.png"
+      pdfPath: "/certificates/Software_Design_Architecture.pdf"
     },
     {
       title: "Introduction to Design Thinking",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Introduction_Design_Thinking.jpg"
+      pdfPath: "/certificates/Introduction_Design_Thinking.pdf"
     },
     {
       title: "Understand and Elicit Requirements with Business Analysis",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Elicit_Requirements_Business_Analysis.jpg"
+      pdfPath: "/certificates/Elicit_Requirements_Business_Analysis.pdf"
     },
     {
       title: "Git & GitHub Mastery: Zero to Hero",
       issuer: "Udemy",
-      pdfPath: "/certificatesIMG/Git_GitHub_Mastery.png"
+      pdfPath: "/certificates/Git_GitHub_Mastery.pdf"
     }
   ];
 
