@@ -104,7 +104,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/TlokotseSM"
+                href="https://github.com/TlokotseSM/Tlokotse-master"
                 target="_blank"
                 className="fork-btn-inner"
                 rel="noopener noreferrer"
