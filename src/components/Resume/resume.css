@@ -1,0 +1,70 @@
+/* Resume Section Styles */
+.resume-section {
+  position: relative;
+  background-image: var(--section-background-color) !important;
+  padding-top: 150px;
+  padding-bottom: 30px;
+}
+
+.resume {
+  justify-content: center;
+  padding-top: 50px;
+}
+
+/* PDF Document Container */
+.react-pdf__Document {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Individual PDF Page Container */
+.pdf-page-container {
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  overflow: hidden;
+  background: white;
+}
+
+/* PDF Page Styling */
+.react-pdf__Page {
+  margin: 0 auto;
+  display: block;
+}
+
+.react-pdf__Page__canvas {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .pdf-page-container {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .resume-section {
+    padding-top: 120px;
+  }
+  
+  .pdf-page-container {
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .resume {
+    padding-top: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .pdf-page-container {
+    margin: 10px;
+    margin-bottom: 15px;
+  }
+}

@@ -1,0 +1,121 @@
+/* Certification Section Styles */
+.certification-section {
+  position: relative;
+  background-image: var(--section-background-color) !important;
+  padding-top: 150px;
+  padding-bottom: 30px;
+  background-image: var(--section-background-color) !important;
+}
+
+.certification-category {
+  margin-bottom: 50px;
+}
+
+.certification-category-title {
+  font-size: 2.3em;
+  font-weight: 600;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.certification-card {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.certification-card-view {
+  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  color: white !important;
+  background-color: transparent !important;
+  border: none !important;
+  padding: 25px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.certification-card-view:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px 3px rgba(119, 53, 136, 0.6) !important;
+}
+
+.certification-icon-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.certification-icon {
+  font-size: 3.5em;
+  color: #c770f0;
+  margin-bottom: 15px;
+}
+
+.certification-title {
+  color: white !important;
+  font-size: 1.3em;
+  font-weight: 600;
+  margin-bottom: 15px;
+  text-align: center;
+  line-height: 1.4;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.certification-issuer {
+  color: #c770f0 !important;
+  font-size: 1.1em;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.certification-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: auto;
+}
+
+.certification-button {
+  background-color: #623686 !important;
+  border: 1px solid #623686 !important;
+  color: white !important;
+  font-size: 1em;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+  text-decoration: none;
+}
+
+.certification-button:hover {
+  background-color: #c770f0 !important;
+  border: 1px solid #c770f0 !important;
+  color: white !important;
+  transform: translateY(-2px);
+}
+
+.certification-button:focus {
+  box-shadow: 0 0 0 0.2rem rgba(199, 112, 240, 0.5) !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767px) {
+  .certification-title {
+    font-size: 1.1em;
+    min-height: 50px;
+  }
+  
+  .certification-icon {
+    font-size: 3em;
+  }
+  
+  .certification-category-title {
+    font-size: 1.8em;
+  }
+}
